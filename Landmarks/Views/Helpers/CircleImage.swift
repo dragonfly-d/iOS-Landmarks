@@ -1,5 +1,5 @@
 //
-//  CirlceImage.swift
+//  CircleImage.swift
 //  Landmarks
 //
 //  Created by Dmitrii Cheishvili on 21.04.2023.
