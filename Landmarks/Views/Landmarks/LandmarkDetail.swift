@@ -9,6 +9,7 @@ import SwiftUI
 
 struct LandmarkDetail: View {
     @EnvironmentObject var modelData: ModelData
+    
     var landmark: Landmark
     
     var landmarkIndex: Int {
