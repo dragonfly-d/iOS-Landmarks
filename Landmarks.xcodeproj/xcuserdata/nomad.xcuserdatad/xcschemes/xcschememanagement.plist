@@ -9,6 +9,39 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Notification.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WatchLandmarks Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CC73054629FB0A610063C62D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CC73055529FB0A620063C62D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CC73055F29FB0A620063C62D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CC79159C29F31EBD008A29A8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
